@@ -59,6 +59,25 @@ All    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ---
 
+## 🛠️ Technical Skills
+
+**💻 Languages**
+Python • SQL
+
+**🤖 GenAI / LLM**
+LangChain • LangGraph • RAG • Agentic AI • Prompt Engineering • OpenAI GPT • LangSmith
+
+**🗄️ Data & Infrastructure**
+PostgreSQL • Vector Databases • FastAPI • Docker • Server-Sent Events (SSE) Streaming
+
+**📊 LLM Evaluation**
+SPIDER Benchmarking • Exact Match (EM) • Execution Accuracy (EX) • Multi-dimensional Rubrics • LLM-as-a-Judge
+
+**🌱 Currently Exploring**
+AI Agent Evaluation • Context Engineering • Text-to-SQL • Production AI Systems
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Riishi-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
