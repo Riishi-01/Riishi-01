@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello,Rishi This Side [ AI Engineer]😊
+# 👋 Hello, Rishi This Side [AI Engineer] 😊
 
 **I build, evaluate, and optimize AI Agents** — with a strong focus on reliability, benchmarking, and real-world performance.
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Current Stack
 
-| | |
+| Category | Tools |
 |---|---|
 | 🤖 **AI Coding** | Kiro CLI · GitHub Copilot |
 | 🧠 **Primary Models** | Claude Sonnet 5 · MiniMax M3 |
@@ -34,7 +34,7 @@
 
 > Building an AI system that can transform natural language into accurate SQL — and proving it works through structured evaluation pipelines, benchmarks, and automated tests.
 
-### 📊 Eval Results — 26 / 39 cases passing (66.7%)
+### 📊 Evaluation Results — 26 / 39 Cases Passing (66.7%)
 
 ```
 Easy   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥     13/16  (81.3%)
@@ -57,7 +57,6 @@ All    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 - 📚 Retrieval-Augmented Generation (RAG) end-to-end
 - 🛠️ Developer tools for AI systems
 
-
 ---
 
 <div align="center">
@@ -70,12 +69,11 @@ All    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 <div align="center">
 
-<sub>☕ Fun fact:
+<sub>☕ **Fun Fact:**
 
-- I read failure logs more carefully than success logs.(Secret: My AI summarizes them for me. 😅)
+- I read failure logs more carefully than success logs. (Secret: My AI summarizes them for me. 😅)
+- My toxic trait: I fire off incomplete prompts, burn tokens, and only gain perfect clarity after I press Enter. 😭
 
-
-
--My toxic trait: I fire off incomplete prompts, burn tokens, and only gain perfect clarity after I press Enter. 😭)</sub>
+</sub>
 
 </div>
