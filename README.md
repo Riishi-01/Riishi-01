@@ -20,7 +20,7 @@
 
 ---
 
-## 🔬 Current Project
+## 🔬 Current Projects
 
 <div align="center">
 
@@ -45,6 +45,37 @@ All    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ```
 
 🔗 Full breakdown → [Text2Sql-Agent](https://github.com/Riishi-01/Text2Sql-Agent)
+
+<br/>
+
+<div align="center">
+
+### 💳 AI CIBIL Coach
+
+**Customer-Facing Credit Advisor** — *Phase 1 of 2 Complete*
+
+![Progress](https://progress-bar.xyz/50?color=brightgreen&width=420&title=Progress%201%20of%202)
+
+</div>
+
+> An intelligent, customer-facing CIBIL coach that ingests KYC information (PAN card & income data), extracts credit profile metrics, and generates hyper-personalized score improvement plans.
+
+### 📈 Project Milestones & Roadmap — 1/2 Completed
+
+```
+Phase 1: Core KYC Ingestion & Plan Generator Engine  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100%
+Phase 2: Frontend UX, LLM-as-a-Judge Evals & Deploy  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥    50%
+────────────────────────────────────────────────────────────────────────────────────────
+Overall  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥    50%
+```
+
+- [x] **KYC & Credit Profile Analysis:** Processes PAN card details and income metrics to compute credit standing.
+- [x] **Personalized Action Plan Engine:** Generates structured, actionable credit score improvement strategies.
+- [ ] **Frontend Enhancement:** Polishing intuitive client UI and interactive dashboard experience.
+- [ ] **LLM-as-a-Judge Offline Evals:** Calibrating evaluation pipelines for advice quality, accuracy, and safety.
+- [ ] **Cloud Deployment:** Final online deployment and API integration.
+
+🔗 Full breakdown → [AI-Cibil-Coach](https://github.com/Riishi-01/AI-Cibil-Coach)
 
 ---
 
@@ -71,10 +102,10 @@ LangChain • LangGraph • RAG • Agentic AI • Prompt Engineering • OpenAI
 PostgreSQL • Vector Databases • FastAPI • Docker • Server-Sent Events (SSE) Streaming
 
 **📊 LLM Evaluation**
-SPIDER Benchmarking • Exact Match (EM) • Execution Accuracy (EX) • Multi-dimensional Rubrics • LLM-as-a-Judge
+SPIDER Benchmarking • Exact Match (EM) • Execution Accuracy (EX) • Multi-dimensional Rubrics • LLM-as-a-Judge Calibration
 
 **🌱 Currently Exploring**
-AI Agent Evaluation • Context Engineering • Text-to-SQL • Production AI Systems
+AI Agent Evaluation • Context Engineering • Text-to-SQL • Financial AI Advisory
 
 ---
 
